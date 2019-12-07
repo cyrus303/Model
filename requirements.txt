@@ -18,7 +18,6 @@ numpy==1.17.4
 pandas==0.25.3
 pathspec==0.5.9
 patsy==0.5.1
-pypiwin32==223
 python-dateutil==2.8.0
 pytz==2019.3
 PyYAML==3.13
