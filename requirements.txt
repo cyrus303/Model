@@ -13,6 +13,7 @@ itsdangerous==1.1.0
 Jinja2==2.10.3
 jmespath==0.9.4
 MarkupSafe==1.1.1
+python==3.6
 numpy==1.17.4
 pandas==0.25.3
 pathspec==0.5.9
