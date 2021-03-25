@@ -20,7 +20,7 @@ pathspec==0.5.9
 patsy==0.5.1
 python-dateutil==2.8.0
 pytz==2019.3
-PyYAML==5.1
+PyYAML==5.4
 requests==2.20.1
 scipy==1.3.3
 semantic-version==2.5.0
